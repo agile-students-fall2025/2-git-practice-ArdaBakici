@@ -9,5 +9,8 @@
 
 It is quite interesting that packages that we use so commonly in web development (especially JavaScript based development) is so open to attacks like supply-chain attacks. While downloading libraries we often don't care about the many dependencies that comes with it, but in reality those dependencies might be your apps biggest vulnabilities. I recommend reading it.
 
+## [Jasmine's Response](https://github.com/jasmine7310)
+I found this article interesting as well, since I personally didn't realize the risk we face online downloading everyday libraries. Something I found interesting as well was that the article gave us the instructions on how to remove the @ctrl/tinycolor package, as well as steps to cleaning up infected repositories in the aftermath.
+
 
 
